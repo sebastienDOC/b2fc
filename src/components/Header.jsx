@@ -4,13 +4,13 @@ import Insta from '../assets/insta.png'
 function Header() {
     return (
         <div className='nav_flex'> 
-            <img src={Logo} alt={Logo} />
+            <img className="" src={Logo} alt={Logo} />
             <nav>
-                <span>A propos</span>
-                <span>Galerie</span>
-                <span>Services</span>
-                <span>Contact</span>
-                <img src={Insta} alt={Insta} />
+                <a href="#about">A propos</a>
+                <a href="#gallerie">Gallerie</a>
+                <a href="https://www.instagram.com/steph_maash/" target='_blank' rel="noopener noreferrer">
+                    <img src={Insta} alt={Insta} />
+                </a>
             </nav>
         </div>
     )
