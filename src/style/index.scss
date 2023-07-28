@@ -12,6 +12,20 @@ h1 {
   margin-bottom: 40px;
 }
 
+.title {
+  h1 {
+    font-size: 50px;
+    margin: 10px;
+  }
+  h2 {
+    font-size: 50px;
+    margin: 10px;
+  }
+  @media screen and (max-width: 768px) {
+    display: none;
+  }
+}
+
 .nav_flex {
   display: flex;
   height: 150px;
@@ -19,14 +33,24 @@ h1 {
   margin: auto;
   background-color: white;
   padding: 20px;
+  @media screen and (max-width: 768px) {
+    height: 100px;
+  }
   .nav_logo {
     height: 150px;
+    @media screen and (max-width: 768px) {
+      height: 100px;
+    }
   }
   nav {
     display: flex;
     align-items: center;
     gap: 50px;
     color: black; 
+    @media screen and (max-width: 768px) {
+      text-transform : uppercase;
+      gap: 20px;
+    }
     img {
       height: 30px;
       width: 30px;
@@ -53,6 +77,10 @@ h1 {
   border-radius: 50%;
   width: 400px;
   height: 400px;
+  @media screen and (max-width: 768px) {
+    width: 150px;
+    height: 150px;
+  }
 }
 .about {
   background-color: #ffbd80;
@@ -62,10 +90,17 @@ h1 {
   flex-direction: row-reverse;
   .about_txt {
     margin: 30px 30px;
+    @media screen and (max-width: 768px) {
+      margin: 0 10px;
+      text-align: center;
+    }
   }
   .about_img {
     display: flex;
     margin: 30px auto;
+  }
+  @media screen and (max-width: 768px) {
+    flex-direction: column-reverse;
   }
 }
 
@@ -76,8 +111,9 @@ h1 {
 .filtres {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 10px;
   margin-bottom: 30px;
+  flex-wrap: wrap;
   p {
     margin: 0;
     padding: 5px 20px;
@@ -94,13 +130,22 @@ h1 {
       cursor: pointer;
     }
   }
+
 }
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px;
+  gap: 10px;
   margin: 40px auto;
-  padding: 0 100px;
+  padding: 0 150px;
+  @media screen and (max-width: 1024px) {
+    grid-template-columns: 1fr 1fr;
+
+  }
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+    padding: 0 5px;
+  }
 }
 .card {
   width: 100%;
