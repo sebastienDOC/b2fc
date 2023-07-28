@@ -6,7 +6,7 @@ import Error from '../components/Error404';
 function Router() {
     return (
         <Routes>
-            <Route path="/home" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="*" element={<Error />} />
         </Routes>
