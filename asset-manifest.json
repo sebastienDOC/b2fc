@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/b2fc/static/css/main.890eaaf3.css",
+    "main.js": "/b2fc/static/js/main.c59012b0.js",
+    "static/media/Mash.jpg": "/b2fc/static/media/Mash.b9ce630939717dcfebaa.jpg",
+    "static/media/insta.png": "/b2fc/static/media/insta.046af6041ae1fffdc4a7.png",
+    "static/media/logo.jpg": "/b2fc/static/media/logo.e8e4767dc05f93b3b52a.jpg",
+    "static/media/mail.png": "/b2fc/static/media/mail.129cd3d83f56fefc114c.png",
+    "index.html": "/b2fc/index.html",
+    "main.890eaaf3.css.map": "/b2fc/static/css/main.890eaaf3.css.map",
+    "main.c59012b0.js.map": "/b2fc/static/js/main.c59012b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890eaaf3.css",
+    "static/js/main.c59012b0.js"
+  ]
+}
