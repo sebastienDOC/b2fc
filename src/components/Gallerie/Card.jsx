@@ -1,10 +1,16 @@
-function Card({ id, image, titre }) {
+import ModalImage from "react-modal-image"
+
+function Card({ image, titre }) {
 	
 	return (
-		<div id={id} className='card'>
-			<img src={image} alt={image} />
+		<div className='card'>
+			<ModalImage
+				small={image}
+                large={image}
+                alt={image}
+                />
 			<p>{titre}</p>
-			<div className="gradient"></div>
+			{/* <div className="gradient"></div> */}
 		</div>
 	)
 }
