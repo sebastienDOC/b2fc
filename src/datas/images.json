@@ -1,200 +1,146 @@
 [
     {
         "id": 1,
-        "image": "https://i.ibb.co/BwG6bbM/chambre1.jpg",
+        "image": "https://i.ibb.co/G2VG7Z0/chambre2.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Chambre"
+        "categorie": "Intérieur"
     },
     {
         "id": 2,
-        "image": "https://i.ibb.co/G2VG7Z0/chambre2.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Chambre"
-    },
-    {
-        "id": 3,
         "image": "https://i.ibb.co/BghHrkG/cuisine1.jpg",
         "titre": "Ceci est une description",
         "categorie": "Cuisine"
     },
     {
-        "id": 4,
+        "id": 3,
         "image": "https://i.ibb.co/wJ91WMm/cuisine2.jpg",
         "titre": "Ceci est une description",
         "categorie": "Cuisine"
     },
     {
-        "id": 5,
+        "id": 4,
         "image": "https://i.ibb.co/zFXs9Nj/entr-e1.jpg.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Salon"
+        "categorie": "Intérieur"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/Wv03BFz/piscine3.jpg",
+        "titre": "Ceci est une description",
+        "categorie": "Extérieur"
     },
     {
         "id": 6,
-        "image": "https://i.ibb.co/h117rsj/palier1.jpg",
+        "image": "https://i.ibb.co/vvQHWmr/salon1.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Chambre"
+        "categorie": "Intérieur"
     },
     {
         "id": 7,
-        "image": "https://i.ibb.co/LRYMBbN/piscine1.jpg",
+        "image": "https://i.ibb.co/8ML2fWG/salon2.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Piscine"
+        "categorie": "Intérieur"
     },
     {
         "id": 8,
-        "image": "https://i.ibb.co/tMsT6Hx/piscine2.jpg",
+        "image": "https://i.ibb.co/rHHR5Rh/salon5.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Piscine"
+        "categorie": "Intérieur"
     },
     {
         "id": 9,
-        "image": "https://i.ibb.co/Wv03BFz/piscine3.jpg",
+        "image": "https://i.ibb.co/swQJb7Z/salon6.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Piscine"
+        "categorie": "Intérieur"
     },
     {
         "id": 10,
-        "image": "https://i.ibb.co/vD6zMjY/raccord1.jpg",
+        "image": "https://i.ibb.co/s6nKnSp/salon7.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Cuisine"
+        "categorie": "Intérieur"
     },
     {
         "id": 11,
-        "image": "https://i.ibb.co/vvQHWmr/salon1.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 12,
-        "image": "https://i.ibb.co/8ML2fWG/salon2.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 13,
-        "image": "https://i.ibb.co/dm4rwt0/salon3.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 14,
-        "image": "https://i.ibb.co/phPQFMP/salon4.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 15,
-        "image": "https://i.ibb.co/rHHR5Rh/salon5.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 16,
-        "image": "https://i.ibb.co/swQJb7Z/salon6.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 17,
-        "image": "https://i.ibb.co/s6nKnSp/salon7.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 18,
-        "image": "https://i.ibb.co/2SfdVzS/salon8.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Salon"
-    },
-    {
-        "id": 19,
         "image": "https://i.ibb.co/RS8HdQ7/sdb1.jpg",
         "titre": "Ceci est une description",
         "categorie": "Salle de bain"
     },
     {
-        "id": 20,
+        "id": 12,
         "image": "https://i.ibb.co/55YV0yH/sdb2.jpg",
         "titre": "Ceci est une description",
         "categorie": "Salle de bain"
     },
     {
-        "id": 21,
+        "id": 13,
         "image": "https://i.ibb.co/LPJ23hG/sdb3.jpg",
         "titre": "Ceci est une description",
         "categorie": "Salle de bain"
     },
     {
-        "id": 22,
+        "id": 14,
         "image": "https://i.ibb.co/0MbNfJw/sdb4.jpg",
         "titre": "Ceci est une description",
         "categorie": "Salle de bain"
     },
     {
-        "id": 23,
+        "id": 15,
         "image": "https://i.ibb.co/1sW7HVW/sdb5.jpg",
         "titre": "Ceci est une description",
         "categorie": "Salle de bain"
     },
     {
-        "id": 24,
+        "id": 16,
         "image": "https://i.ibb.co/94Lgqcf/stairs1.jpg",
         "titre": "Ceci est une description",
         "categorie": "Escaliers"
     },
     {
-        "id": 25,
+        "id": 17,
         "image": "https://i.ibb.co/2ZjXHyh/stairs2.jpg",
         "titre": "Ceci est une description",
         "categorie": "Escaliers"
     },
     {
-        "id": 26,
+        "id": 18,
         "image": "https://i.ibb.co/GRVQkHC/stairs3.jpg",
         "titre": "Ceci est une description",
         "categorie": "Escaliers"
     },
     {
-        "id": 27,
+        "id": 19,
         "image": "https://i.ibb.co/fFvx42D/stairs4.jpg",
         "titre": "Ceci est une description",
         "categorie": "Escaliers"
     },
     {
-        "id": 28,
+        "id": 20,
         "image": "https://i.ibb.co/nwnVkX6/stairs5.jpg",
         "titre": "Ceci est une description",
         "categorie": "Escaliers"
     },
     {
-        "id": 29,
+        "id": 21,
         "image": "https://i.ibb.co/tx9dxYZ/terrasse1.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Terrasse"
+        "categorie": "Extérieur"
     },
     {
-        "id": 30,
+        "id": 22,
         "image": "https://i.ibb.co/SvCtrs2/terrasse2.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Terrasse"
+        "categorie": "Extérieur"
     },
     {
-        "id": 31,
-        "image": "https://i.ibb.co/jgX86Wh/terrasse3.jpg",
-        "titre": "Ceci est une description",
-        "categorie": "Terrasse"
-    },
-    {
-        "id": 32,
+        "id": 23,
         "image": "https://i.ibb.co/3k0txbH/terrasse4.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Terrasse"
+        "categorie": "Extérieur"
     },
     {
-        "id": 33,
+        "id": 24,
         "image": "https://i.ibb.co/vxVhWxz/wc1.jpg",
         "titre": "Ceci est une description",
-        "categorie": "Toilettes"
+        "categorie": "Salle de bain"
     }
 ]

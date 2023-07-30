@@ -10,7 +10,6 @@ function Card({ image, titre }) {
                 alt={image}
                 />
 			<p>{titre}</p>
-			{/* <div className="gradient"></div> */}
 		</div>
 	)
 }

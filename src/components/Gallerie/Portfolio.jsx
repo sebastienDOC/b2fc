@@ -16,14 +16,11 @@ function Portfolio() {
             <h1>Portfolio</h1>
                 <div className='filtres'>
                     <button onClick={() => setItems(gallery)}>Tous</button>
-                    <button onClick={() => filterItem('Salon')}>Salon</button>
+                    <button onClick={() => filterItem('Intérieur')}>Intérieur</button>
                     <button onClick={() => filterItem('Cuisine')}>Cuisine</button>
-                    <button onClick={() => filterItem('Chambre')}>Chambre</button>
                     <button onClick={() => filterItem('Salle de bain')}>Salle de bain</button>
-                    <button onClick={() => filterItem('Toilettes')}>Toilettes</button>
                     <button onClick={() => filterItem('Escaliers')}>Escaliers</button>
-                    <button onClick={() => filterItem('Terrasse')}>Terrasse</button>
-                    <button onClick={() => filterItem('Piscine')}>Piscine</button>
+                    <button onClick={() => filterItem('Extérieur')}>Extérieur</button>
                 </div>
             </div>
             <div className='grid'>
