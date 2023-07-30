@@ -1,0 +1,42 @@
+.nav_flex {
+    display: flex;
+    height: 200px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: black;
+    margin: auto;
+    .nav_logo {
+      height: 100px;
+      width: 100px;
+    }
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 50px;
+      @media screen and (max-width: 768px) {
+        text-transform : uppercase;
+        gap: 20px;
+      }
+      img {
+        height: 30px;
+        width: 30px;
+        cursor: pointer;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+          color: $color-primary;
+          cursor: pointer;
+        }
+        &:active {
+          text-decoration: underline;
+          color: $color-secondary;
+          cursor: pointer;
+        }
+      }
+    }
+  }

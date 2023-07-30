@@ -1,0 +1,25 @@
+.error {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 20px 0;
+    justify-content: center;
+    align-items: center;
+    background-color: $color-primary;
+    .error_404 {
+      font-size: 150px;
+      margin: 40px;
+    }
+    .error_txt {
+      font-size: 75px;
+      margin: 40px;
+    }
+    .error_link {
+      color: black;
+      text-decoration: none;
+      margin: 20px;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
